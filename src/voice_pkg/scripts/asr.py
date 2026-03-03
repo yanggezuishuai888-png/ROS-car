@@ -29,7 +29,7 @@ import numpy as np
 
 
 class AI:
-
+	pass
 # WebSocket URL和身份验证
 class Ws_Param ( object ):
     # 1.基本信息初始化
